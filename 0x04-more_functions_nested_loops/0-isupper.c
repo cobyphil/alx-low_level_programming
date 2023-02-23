@@ -5,7 +5,7 @@
 
 int _isupper(int c)
 {
-If isupper(c) 
+If isupper(c)
 {
 return (1);
 }
