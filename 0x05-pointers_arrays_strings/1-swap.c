@@ -4,6 +4,7 @@
  *swap integers
  * @a: first number
  * @b: second number
+ * @temp: temporary variable
  */
 
 int swap_int(int *a, int *b)
