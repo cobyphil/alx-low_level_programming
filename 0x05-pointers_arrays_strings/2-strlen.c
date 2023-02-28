@@ -5,6 +5,7 @@
 /**
  * _strlen - check string lenth
  *Return: int
+ *@s: argument
  */
 
 int _strlen(char *s)
