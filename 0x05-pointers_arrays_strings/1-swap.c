@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-*swap integers
-* @a to @b
-* @b to @a
-*/
+ *swap integers
+ * @a: first number
+ * @b: second number
+ */
 
-void swap_int(int *a, int *b)
+int swap_int(int *a, int *b)
 {
 int temp = 0;
 temp = *a;
