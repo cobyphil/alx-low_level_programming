@@ -4,7 +4,8 @@
  * @s: argument
  */
 
-void print_string(char *s) {
-    puts(s);
+void _puts(char *str)
+{
+    puts(str);
 }
 
